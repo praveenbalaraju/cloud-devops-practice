@@ -1,2 +1,1 @@
-"# Cloud & DevOps Practice" 
-Practicing Git workflow 
+Practicing Git workflows on main branch 
