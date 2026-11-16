@@ -1,1 +1,2 @@
 uptime 
+df -h
