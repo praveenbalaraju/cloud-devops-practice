@@ -1,2 +1,1 @@
-"# Cloud & DevOps Practice" 
-Practicing Git workflow 
+Practicing merge conflict resolution on branch 
